@@ -1,2 +1,14 @@
-# portfolio-1
-My V1 personal portfolio — an early cybersecurity-focused portfolio showcasing my IBM experience, SAP EWM background, certifications, learning journey, and transition into cybersecurity.
+# Portfolio V2 Redesign
+
+This folder contains the cybersecurity-focused redesign of the portfolio.
+
+Goals:
+- Personal branding
+- Cybersecurity career transition
+- Dark/Light mode
+- IBM and SAP EWM experience
+- Improved SEO
+- Blog section
+- Career timeline
+
+Status: Planning phase
